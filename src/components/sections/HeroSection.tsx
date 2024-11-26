@@ -8,7 +8,7 @@ export function HeroSection() {
         {...scaleIn}
         className="text-6xl font-bold mb-8 bg-clip-text text-transparent bg-gradient-to-r from-pink-300 to-purple-300"
       >
-        Happy Birthday, Kanchan!
+        Happy Birthday, Kanchan Di / BEHEN!
       </motion.h1>
       <motion.p {...fadeIn} className="text-2xl mb-8">
         Today we celebrate you!
